@@ -17,7 +17,7 @@ Welcome to TaskSphere! This is a scalable web application built with a modern te
 ## 📸 Screenshots
 
 Here's a sneak peek of TaskSphere in action.
-![Dashboard Preview](./public/ui_image.png)
+![Dashboard Preview](./client/public/ui_image.png)
 
 
 *You can replace the placeholder paths below with your actual screenshots. A good practice is to create a `screenshots` directory in the root of your project to store them.*
